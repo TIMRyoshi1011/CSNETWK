@@ -27,3 +27,5 @@ CODE
     - client stores a file to the server from their device
 inputstream = read = server->client
 outputstream = write = client->server
+
+Github repository for Machine Project in CSNETWK Course from CCS in DLSU from Term 3 AY 2024-2025
