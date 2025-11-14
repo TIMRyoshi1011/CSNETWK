@@ -1,4 +1,4 @@
-# CSNETWKMP2
+# CSNETWK Machine Project
 //run term 1
 python server.py
 //run term 2
